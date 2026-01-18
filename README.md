@@ -52,8 +52,10 @@ Models evaluated include Random Forest and gradient boosting variants (XGBoost/L
 - S–N curves grouped by Rm and Kt
 
 > Add screenshots here:
-> ![Predicted vs Executable](figures/pred_vs_exe.png)
-> ![S-N Curves](figures/sn_curves.png)
+> <img width="1000" height="704" alt="image" src="https://github.com/user-attachments/assets/78d88a55-dbca-48d5-b59c-31f425d1f0ca" />
+
+> <img width="1043" height="766" alt="image" src="https://github.com/user-attachments/assets/0a18471a-06e0-478f-b32a-644f745491f4" />
+
 
 ---
 
