@@ -35,7 +35,7 @@ Because outputs can be **0** or **∞**, a single regressor is not sufficient.
 We use a **two-stage hybrid pipeline**:
 
 1) **Classifier** predicts the regime: **{0, finite, ∞}**  
-2) If **finite**, a **regressor** predicts fatigue life (log-scale for stability) :contentReference[oaicite:6]{index=6}
+2) If **finite**, a **regressor** predicts fatigue life (log-scale for stability) 
 
 Models evaluated include Random Forest and gradient boosting variants (XGBoost/LightGBM). The final model combines the best classifier + regressor. 
 
